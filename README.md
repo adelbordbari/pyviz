@@ -2,7 +2,7 @@
 
 goofy script that turns code into artwork(??)
 
-http://adel.dedyn.io/code/paint_the_code
+http://adel.dedyn.io/code/2025-12-03-paint-the-code/
 
 samples for a simple target (only `print("hello world")`):
 1. gen.py: <img width="1500" height="463" alt="gen" src="https://github.com/user-attachments/assets/2928b8c1-56d3-4e1e-89f1-5e43729489f6" />
